@@ -35,8 +35,7 @@ Contracts:https://github.com/OpenKoo/OPENKOO/tree/main/contracts
 
 UI:https://github.com/OpenKoo/Openkoo-Chainlink/tree/main/UI  
 
-YouTube:https://youtu.be/cAKwOA5ZvkA
-
+YouTube:https://youtu.be/EE509_1IiOA
 
 ## Highlights and Features
 
