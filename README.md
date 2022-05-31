@@ -9,14 +9,11 @@ OpenKoo
 
 OpenKoo is an NFT creation platform accessible to everyone.
 
-
 ## Deployment information
 
 ### Harmony Testnet Shard 0 Network
   - RPC-URL: https://api.s0.b.hmny.io
   - chain-Id:1666700000
-
-
 
 Address
 
@@ -32,13 +29,13 @@ Address
 
 ## Links
 
-Github:https://github.com/OpenKoo  
+Github:https://github.com/OpenKoo/Openkoo-Harmony  
 
 Contracts:https://github.com/OpenKoo/OPENKOO/tree/main/contracts  
 
 UI:https://github.com/OpenKoo/Openkoo-Chainlink/tree/main/UI  
 
-YouTube:https://youtu.be/gv47oXp0kIQ
+YouTube:https://youtu.be/cAKwOA5ZvkA
 
 
 ## Highlights and Features
